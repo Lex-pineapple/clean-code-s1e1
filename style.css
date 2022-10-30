@@ -38,12 +38,12 @@
   display: flex;
 }
 
-ul {
+.task-list {
   margin: 0;
   padding: 0px;
 }
 
-li,
+.task-list__item,
 .page-section__header {
   list-style: none;
 }
