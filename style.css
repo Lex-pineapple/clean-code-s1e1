@@ -31,7 +31,7 @@
 .task-list__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .page-section-wrapper {
